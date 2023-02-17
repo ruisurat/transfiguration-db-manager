@@ -12,6 +12,8 @@ This is a simple tool designed to allow the easy editing of particular values wi
 - Custom SQL Execution
 - Built-in table viewer with every table in the database
 - Table editor with particular tables [Beasts, Potions, Plants, Room of Requirement, Items] (this will be updated in the future)
+- Built-in pak compilation
+- Table merger to avoid conflicting DB edit mods.
 
 ## Suggest features
 Email me @ ruisudeveloper@gmail.com or send me a message on Discord (ruisu#9765) to suggest any features you'd like to see added.
